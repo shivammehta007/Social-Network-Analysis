@@ -4,7 +4,7 @@ This Repository Contains Codes for Social Network Analysis.
 
 
 ## File 1: 
-[Sentimental Analysis on Tweets and Company Classification](https://github.com/shivammehta007/Social-Network-Analysis/blob/master/Sentimental_Analysis_Files/company_classification.png?raw=true)
+[Sentimental Analysis on Tweets and Company Classification](https://github.com/shivammehta007/Social-Network-Analysis/blob/master/Sentimental_Analysis_and_company_classification.ipynb)
 
 To Run Change the variable name for custom file : **test_file_name** present in the second cell
 ![Test File](https://github.com/shivammehta007/Social-Network-Analysis/blob/master/Sentimental_Analysis_Files/test_file_name.png?raw=true)
